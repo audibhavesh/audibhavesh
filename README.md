@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @audibhavesh
 - 👀 I’m interested in ML,DL,Android,Cross Platform Developement
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently working on Flutter, ML, Android, iOS
 - 💞️ I’m looking to collaborate on ML,Android,Flutter
 - 📫 Send me email if you want to reach me at theoctacoder@gmail.com
